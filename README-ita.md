@@ -55,7 +55,8 @@ url = "♥♥♥"
 elementi = soup.select("img.★★★")
 ```
 
-ecco un esempio, questi nomi non me li sono inventati, li trovi nell'html e sono quelli specificati da qualcosa come `div class=main` sotto al primo ce ne sono di altri, ci basterà separare il tutto con uno spazio:
+> [!NOTE]
+> ecco un esempio, questi nomi non me li sono inventati, li trovi nell'html e sono quelli specificati da qualcosa come `div class=main` sotto al primo ce ne sono di altri, ci basterà separare il tutto con uno spazio:
 
 ```python
 elementi = soup.select("div.main div.upper_class-name img.class-name")")
