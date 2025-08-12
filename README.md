@@ -1,4 +1,4 @@
-# Veluntra
+# Veluntra (poi lo faccio)
 The magic that cuts _(photos from a site and pastes them into a folder on your computer)_\
 <sub> [Clicca qui per la versione in italiano](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md) </sub>
 
