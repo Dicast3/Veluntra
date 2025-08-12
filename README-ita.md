@@ -1,5 +1,5 @@
 # Veluntra
-La magia che taglia (da un sito e incolla su una cartella nel tuo computer)\
+La magia che taglia _(da un sito e incolla su una cartella nel tuo computer)_\
 <sub> [Click here for the english version](https://github.com/Dicast3/Veluntra/blob/main/README.md) </sub>
 
 ## Roba burocratica (noiaaaa)
@@ -10,3 +10,6 @@ Qui c'è il mio [disclaimer di responsabilità](https://github.com/Dicast3/Velun
 Se non avessi voglia di leggere, ti riassumo tutto in poche parole:
 1. Non sono responsabile di ciò che fai e quello che succede con questo strumento (sono fatti tuoi, non mi cercare se adesso il computer si è mangiato il gatto)
 2. Questo progetto è per scopi didattici, se non dovesse essere utilizzato per questo mi arrabbierò tantissimo
+
+## Setup
+Mi dispiace, questa roba non è plug and play è un po sbatti ma ne vale la pena se ==ne hai realmente bisogno==
