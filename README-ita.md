@@ -15,5 +15,5 @@ Se non avessi voglia di leggere, ti riassumo tutto in poche parole:
 Mi dispiace, questa roba non è plug and play ed è un po sbatti, ma ne vale la pena se <mark> nE Hai ReAlMeNtE BiSoGnO</mark>.
 > <sub> Altra cosa, me ne stavo quasi per dimenticare, sto scrivendo pensando di parlare con qualcuno che utilizza come sistema operativo windows, in caso il tuo sistema operativo fosse differente alcune parti dello script vanno riadattare (principalmente come vengono trovati i file e i vari percorsi) </sub>\
 
-Prima di tutto hai bisogno di [Python](https://www.python.org/downloads/).
-Installato python ()
+Prima di tutto hai bisogno di [Python](https://www.python.org/downloads/).\
+Installato python bisogna scegliere con quale variante di Veluntra vogliamo svolgere il nostro _*esperimento didattico*_
