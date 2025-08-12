@@ -30,7 +30,7 @@ per favore, passa al capitolo della variante corretta in base a quella che hai s
 Per questa variante abbiamo bisogno di installare con il terminale `requests` e `beautifulsoup4`.\
 Per fare questo ci basterà digitare ```pip install requests``` e fare la stessa cosa anche per `beautifulsoup4`.\
 Una volta fatto questo dobbiamo prendere alcune parti del codice e modificarle a seconda delle nostre esigenze, possiamo farlo con il blocco note se ci sentiamo abbastanza badass.\
-Le parti da modificare sono le seguenti:\
+Le parti da modificare sono le seguenti:
 1. La variabile `url`, al posto di `♥♥♥` ci va messo l'url della pagina esatta (quella con le immagini) dentro alle virgolette.
 2. La variabile `elementi`, al posto di `★★★` ci va messo il css selector dentro alle partentesi
 3. La variabile `download_dir` al posto di `◼◼◼` ci va messo un nome qualsiasi.\
