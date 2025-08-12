@@ -34,7 +34,7 @@ Le parti da modificare sono le seguenti:\
 1. La variabile `url`, al posto di `♥♥♥` ci va messo l'url della pagina esatta (quella con le immagini) dentro alle virgolette.
 2. La variabile `elementi`, al posto di `★★★` ci va messo il css selector dentro alle partentesi
 3. La variabile `download_dir` al posto di `◼◼◼` ci va messo un nome qualsiasi.\
-> [!WARNING]  
+> [!Attenzione]  
 > Questa è la cartella di destinazione, chiamala come ti pare, ti consiglio di chiamarla diversamente rispetto a quelle che hai già per evitare spiacevoli sorprese.
 
 ### Veluntra V
