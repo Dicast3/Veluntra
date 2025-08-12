@@ -28,6 +28,7 @@ per favore, passa al capitolo della variante corretta in base a quella che hai s
 
 ### Veluntra I
 Per questa variante abbiamo bisogno di installare con il terminale `requests` e `beautifulsoup4`.\
+Per fare questo ci basterà digitare ```pip install requests``` e fare la stessa cosa anche per `beautifulsoup4`
 Una volta fatto questo dobbiamo prendere alcune parti del codice e modificarle a seconda delle nostre esigenze, possiamo farlo con il blocco note se ci sentiamo abbastanza badass.\
 Le parti da modificare sono le seguenti:\
 1. La variabile `url`
