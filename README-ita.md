@@ -11,7 +11,7 @@ Se non avessi voglia di leggere, ti riassumo tutto in poche parole:
 1. Non sono responsabile di ciò che fai e quello che succede con questo strumento (sono fatti tuoi, non mi cercare se adesso il computer si è mangiato il gatto)
 2. Questo progetto è per scopi didattici, se non dovesse essere utilizzato per questo mi arrabbierò tantissimo
 
-## pre-Setup
+## Setup
 Mi dispiace, questa roba non è plug and play ed è un po sbatti, ma ne vale la pena se <mark> nE Hai ReAlMeNtE BiSoGnO</mark>.
 > <sub> Altra cosa, me ne stavo quasi per dimenticare, sto scrivendo pensando di parlare con qualcuno che utilizza come sistema operativo windows, in caso il tuo sistema operativo fosse differente alcune parti dello script vanno riadattare (principalmente come vengono trovati i file e i vari percorsi) </sub>\
 
@@ -28,7 +28,11 @@ per favore, passa al capitolo della variante corretta in base a quella che hai s
 
 ### Veluntra I
 Per questa variante abbiamo bisogno di installare con il terminale `requests` e `beautifulsoup4`.\
-Una volta fatto questo dobbiamo prendere alcune parti del codice e modificarle a seconda delle nostre esigenze, possiamo farlo con il blocco note se ci sentiamo abbastanza carichi.
+Una volta fatto questo dobbiamo prendere alcune parti del codice e modificarle a seconda delle nostre esigenze, possiamo farlo con il blocco note se ci sentiamo abbastanza badass.\
+Le parti da modificare sono le seguenti:\
+1. La variabile `url`
+2. La variabile `elementi`
+3. (opzionale) la variabile che indica la cartella di destinazione `download_dir` che verrà creata in Download, chiamala come ti pare, ti consiglio di chiamarla diversamente rispetto a quelle che hai già per evitare spiacevoli sorprese.
 
 ### Veluntra V
 
