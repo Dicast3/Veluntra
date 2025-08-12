@@ -83,6 +83,13 @@ Fatte tutte le modifiche come indicato per Veluntra I, adesso possiamo ultimare 
 * Modificare la variabile `service`: al posto di `C:\Users\⬤⬤⬤\edgedriver_win64\msedgedriver.exe` ci va messo il percorso preciso per trovare i driver.
 
 ### Veluntra X
+Per questa variante abbiamo bisogno di installare `playwright` con `pip install playwright` e con `playwright install`.\
+Le cose da modificare sono:
+* La variabile `url`
+* La variabile `download_dir`
+
+
+<sub> Per sapere come fare, vedi le varianti precedenti. </sub>
 
 ---
 ## Utilizzo
