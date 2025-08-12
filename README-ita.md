@@ -38,6 +38,7 @@ Per favore, passa al capitolo della variante corretta in base a quella che hai s
 * [Veluntra X](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md#veluntra-x)
 
 ---
+---
 
 ### Veluntra I
 Per questa variante abbiamo bisogno di installare con il terminale `requests` e `beautifulsoup4`.\
@@ -75,12 +76,16 @@ download_dir = Path.home() / "Downloads" / "◼◼◼"
 > [!WARNING]  
 > Questa è la cartella di destinazione, chiamala come ti pare, ti consiglio di chiamarla diversamente rispetto a quelle che hai già per evitare spiacevoli sorprese.
 
+---
+
 ### Veluntra V
 Per questa variante abbiamo bisogno di installare e modificare le solite cose che sono necessarie per [Veluntra I](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md#veluntra-i), con una piccola aggiunta.
 
 Fatte tutte le modifiche come indicato per Veluntra I, adesso possiamo ultimare gli ultimi dettagli:
 * Scaricare la versione corretta per il tuo computer di [edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH)
 * Modificare la variabile `service`: al posto di `C:\Users\⬤⬤⬤\edgedriver_win64\msedgedriver.exe` ci va messo il percorso preciso per trovare i driver.
+
+---
 
 ### Veluntra X
 Per questa variante abbiamo bisogno di installare `playwright` con `pip install playwright` e con `playwright install`.\
@@ -92,6 +97,8 @@ Le cose da modificare sono:
 <sub> Per sapere come fare, vedi le varianti precedenti, non ho più voglia di scrivere. </sub>
 
 ---
+---
+
 ## Utilizzo
 Per utilizzare Veluntra ti basta cambiare la cartella in cui si trova lo script che hai scaricato (`ls` e `cd` sono i tuoi migliori amici)
 > [!NOTE]
