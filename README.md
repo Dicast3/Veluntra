@@ -9,4 +9,4 @@ Here there is my [disclaimer](https://github.com/Dicast3/Veluntra/blob/main/Disc
 
 If you don't feel like reading, I'll summarize everything in a few words:
 1. I'm not responsible for what you do or what happens with this tool (that's your business, don't contact me if your computer has eaten your cat now).
-2. This project is for educational purposes; if it's not used for that purpose, I'll be very angry.
+2. This project is for educational purposes; if it's not used for that purpose, I'll get really mad.
