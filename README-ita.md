@@ -28,7 +28,7 @@ per favore, passa al capitolo della variante corretta in base a quella che hai s
 
 ### Veluntra I
 Per questa variante abbiamo bisogno di installare con il terminale `requests` e `beautifulsoup4`.\
-Per fare questo ci basterà digitare ```pip install requests``` e fare la stessa cosa anche per `beautifulsoup4`.\
+Per fare questo ci basterà digitare ```pip install requests``` e fare la stessa cosa anche per `beautifulsoup4`.
 > [!TIP]
 > In caso non dovesse funzionare con pip, possiamo provare con pip3\
 
