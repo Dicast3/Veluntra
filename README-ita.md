@@ -31,6 +31,7 @@ Per questa variante abbiamo bisogno di installare con il terminale `requests` e 
 Per fare questo ci basterà digitare ```pip install requests``` e fare la stessa cosa anche per `beautifulsoup4`.\
 > [!TIP]
 > In caso non dovesse funzionare con pip, possiamo provare con pip3\
+
 Una volta fatto questo dobbiamo prendere alcune parti del codice e modificarle a seconda delle nostre esigenze, possiamo farlo con il blocco note se ci sentiamo abbastanza badass.\
 Le parti da modificare sono le seguenti:
 1. La variabile `url`, al posto di `♥♥♥` ci va messo l'url della pagina esatta (quella con le immagini) dentro alle virgolette.
