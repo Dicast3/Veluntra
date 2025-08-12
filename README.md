@@ -1,6 +1,6 @@
 # Veluntra
 The spell that cuts (from a site and pastes to a folder on your computer)\
-<sub> [Clicca qui per la versione in itliano](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md) </sub>
+<sub> [Clicca qui per la versione in italiano](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md) </sub>
 
 ## bureaucratic stuff (noiaaaa)
 Even if i don't like doing it, here we are:\
