@@ -25,7 +25,8 @@ Una volta che abbiamo scelto la variante, tenetevi forte, avremo bisogno di altr
 per favore, passa al capitolo della variante corretta in base a quella che hai scelto
 
 ### Veluntra I
-per questa variante abbiamo bisogno di installare con il terminale `requests` e `beautifulsoup4`.
+Per questa variante abbiamo bisogno di installare con il terminale `requests` e `beautifulsoup4`.\
+Una volta fatto questo dobbiamo prendere alcune parti del codice e modificarle a seconda delle nostre esigenze, possiamo farlo con il blocco note se ci sentiamo abbastanza carichi.
 
 ### Veluntra V
 
