@@ -89,7 +89,7 @@ Le cose da modificare sono:
 * La variabile `download_dir`
 
 
-<sub> Per sapere come fare, vedi le varianti precedenti. </sub>
+<sub> Per sapere come fare, vedi le varianti precedenti, non ho più voglia di scrivere. </sub>
 
 ---
 ## Utilizzo
