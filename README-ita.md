@@ -27,7 +27,7 @@ Ho vomitato 3 varianti che operano in modo differente ma che hanno lo stesso sco
 ![Immagine illustrativa](https://github.com/Dicast3/Veluntra/blob/main/Assets/Versioni.png)
 
 Una volta che abbiamo scelto la variante, tenetevi forte, avremo bisogno di altra roba che installeremo a seconda di cosa abbiamo scelto.\
-per favore, passa al capitolo della variante corretta in base a quella che hai scelto:
+Per favore, passa al capitolo della variante corretta in base a quella che hai scelto:
 
 * [Veluntra I](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md#veluntra-i)
 * [Veluntra V](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md#veluntra-v)
@@ -74,3 +74,11 @@ download_dir = Path.home() / "Downloads" / "◼◼◼"
 ### Veluntra V
 
 ### Veluntra X
+
+---
+## Utilizzo
+Per utilizzare Veluntra ti basta cambiare la cartella in cui si trova lo script che hai scaricato (`ls` e `cd` sono i tuoi migliori amici)
+> [!NOTE]
+> puoi anche provare a scrivere `cd "`, trascinare la cartella in cui si trova lo script e chiudere con `"`
+e aprire il terminale e scrivere `python Veluntra.py` oppure `python3 Veluntra.py`
+
