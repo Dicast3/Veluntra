@@ -63,6 +63,11 @@ elementi = soup.select("div.main div.upper_class-name img.class-name")")
 ```
 
 * La variabile `download_dir` al posto di `◼◼◼` ci va messo un nome qualsiasi.\
+
+```python
+download_dir = Path.home() / "Downloads" / "◼◼◼"
+```
+
 > [!WARNING]  
 > Questa è la cartella di destinazione, chiamala come ti pare, ti consiglio di chiamarla diversamente rispetto a quelle che hai già per evitare spiacevoli sorprese.
 
