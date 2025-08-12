@@ -50,6 +50,17 @@ url = "♥♥♥"
 ```
 
 * La variabile `elementi`, al posto di `★★★` ci va messo il css selector dentro alle partentesi
+
+```python
+elementi = soup.select("img.★★★")
+```
+
+ecco un esempio, questi nomi non me li sono inventati, li trovi nell'html e sono quelli specificati da qualcosa come `div class=main` sotto al primo ce ne sono di altri, ci basterà separare il tutto con uno spazio:
+
+```python
+elementi = soup.select("div.main div.upper_class-name img.class-name")")
+```
+
 * La variabile `download_dir` al posto di `◼◼◼` ci va messo un nome qualsiasi.\
 > [!WARNING]  
 > Questa è la cartella di destinazione, chiamala come ti pare, ti consiglio di chiamarla diversamente rispetto a quelle che hai già per evitare spiacevoli sorprese.
