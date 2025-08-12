@@ -22,7 +22,7 @@ Ho vomitato 3 varianti che operano in modo differente ma che hanno lo stesso sco
 ![Immagine illustrativa](link all'immagine illustrativa)
 
 Una volta che abbiamo scelto la variante, tenetevi forte, avremo bisogno di altra roba da installare dal terminale :)\
-per favore, passa al capitolo della variante corretta in base a quella che hai scelto:\
+per favore, passa al capitolo della variante corretta in base a quella che hai scelto:
 
 * [Veluntra I](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md#veluntra-i)
 * [Veluntra V](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md#veluntra-v)
