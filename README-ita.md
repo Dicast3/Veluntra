@@ -11,6 +11,10 @@ Se non avessi voglia di leggere, ti riassumo tutto in poche parole:
 1. Non sono responsabile di ciò che fai e quello che succede con questo strumento (sono fatti tuoi, non mi cercare se adesso il computer si è mangiato il gatto)
 2. Questo progetto è per scopi didattici, se non dovesse essere utilizzato per questo mi arrabbierò tantissimo
 
+## Materiale richiesto per questo art attack
+* computer funzionante (opzionale)
+* microsoft Edge
+
 ## Conoscenze richieste
 Per utilizzare questo script non credo ti serva un diploma, soprattutto se consideriamo il fatto che qui sotto ho scritto un tutorial estremamente dettagliato, quasi nauseante per quanto è puntiglioso e ti prende per manina per tutti gli step.
 
