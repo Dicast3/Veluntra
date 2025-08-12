@@ -18,6 +18,7 @@ Mi dispiace, questa roba non è plug and play ed è un po sbatti, ma ne vale la 
 Prima di tutto hai bisogno di [Python](https://www.python.org/downloads/).\
 Installato python bisogna scegliere con quale _variante_ di Veluntra vogliamo svolgere il nostro _***esperimento didattico***_.\
 Ho vomitato 3 varianti che operano in modo differente ma che hanno lo stesso scopo, possiamo vederele più o meno così (te la faccio breve, se vuoi una spiegazione dettagliata vai [qui](link alla spiegazione dettagliata.md)):\
+
 ![Immagine illustrativa](link all'immagine illustrativa)
 
 Una volta che abbiamo scelto la variante, tenetevi forte, avremo bisogno di altra roba da installare dal terminale :)\
