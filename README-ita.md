@@ -24,7 +24,7 @@ Prima di tutto hai bisogno di [Python](https://www.python.org/downloads/).\
 Installato Python bisogna scegliere con quale _variante_ di Veluntra vogliamo svolgere il nostro _***esperimento didattico***_, nel dubbio ti consiglio di dirigerti [qui](https://github.com/Dicast3/Veluntra/tree/main/Code) e scaricare tutto il contenuto di questa cartella.\
 Ho vomitato 3 varianti che operano in modo differente ma che hanno lo stesso scopo, possiamo vederele più o meno così (te la faccio breve, se vuoi una spiegazione dettagliata vai [qui](link alla spiegazione dettagliata.md)):\
 
-![Immagine illustrativa](link all'immagine illustrativa)
+![Immagine illustrativa](https://github.com/Dicast3/Veluntra/blob/main/Assets/Versioni.png)
 
 Una volta che abbiamo scelto la variante, tenetevi forte, avremo bisogno di altra roba che installeremo a seconda di cosa abbiamo scelto.\
 per favore, passa al capitolo della variante corretta in base a quella che hai scelto:
