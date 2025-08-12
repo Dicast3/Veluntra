@@ -56,7 +56,7 @@ elementi = soup.select("img.★★★")
 ```
 
 > [!NOTE]
-> ecco un esempio, questi nomi non me li sono inventati, li trovi nell'html e sono quelli specificati da qualcosa come `div class=main` sotto al primo ce ne sono di altri, ci basterà separare il tutto con uno spazio:
+> ecco un esempio, questa roba la trovi nell'html e sono specificati da qualcosa come `div class=main`. Come puoi notare, se "sotto" al primo ce ne sono di altri, ci basterà separare il tutto con uno spazio fino a che non arriveremo a quello dell'immagine che di solito presenta anche un link (quello dell'immagine che vogliamo scaricare):
 
 ```python
 elementi = soup.select("div.main div.upper_class-name img.class-name")")
