@@ -2,7 +2,7 @@
 The spell that cuts (from a site and pastes to a folder on your computer)\
 <sub> [Clicca qui per la versione in italiano](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md) </sub>
 
-## bureaucratic stuff (noiaaaa)
+## bureaucratic stuff (boooring)
 Even if i don't like doing it, here we are:\
 Here there is the [license](https://github.com/Dicast3/Veluntra/blob/main/LICENSE)\
 Here there is my [disclaimer](https://github.com/Dicast3/Veluntra/blob/main/Disclaimer-eng.md)
