@@ -14,6 +14,7 @@ Se non avessi voglia di leggere, ti riassumo tutto in poche parole:
 ## Materiale richiesto per questo art attack
 * computer funzionante (opzionale)
 * microsoft Edge
+* [Python](https://www.python.org/downloads/)
 
 ## Conoscenze richieste
 Per utilizzare questo script non credo ti serva un diploma, soprattutto se consideriamo il fatto che qui sotto ho scritto un tutorial estremamente dettagliato, quasi nauseante per quanto è puntiglioso e ti prende per manina per tutti gli step.
@@ -24,8 +25,7 @@ C'è purtroppo da dire una cosa: è richiesto almeno avere una vaga idea di come
 Mi dispiace, questa roba non è plug and play ed è un po sbatti, ma ne vale la pena se <mark> nE Hai ReAlMeNtE BiSoGnO</mark>.
 > <sub> Altra cosa, me ne stavo quasi per dimenticare, sto scrivendo pensando di parlare con qualcuno che utilizza come sistema operativo windows, in caso il tuo sistema operativo fosse differente alcune parti dello script vanno riadattare (principalmente come vengono trovati i file e i vari percorsi) </sub>\
 
-Prima di tutto hai bisogno di [Python](https://www.python.org/downloads/).\
-Installato Python bisogna scegliere con quale _variante_ di Veluntra vogliamo svolgere il nostro _***esperimento didattico***_, nel dubbio ti consiglio di dirigerti [qui](https://github.com/Dicast3/Veluntra/tree/main/Code) e scaricare tutto il contenuto di questa cartella.\
+Prima di tutto bisogna scegliere quale _variante_ di Veluntra vogliamo utilizzare per svolgere il nostro _***esperimento didattico***_, nel dubbio ti consiglio di dirigerti [qui](https://github.com/Dicast3/Veluntra/tree/main/Code) e scaricare tutto il contenuto di questa cartella.\
 Ho vomitato 3 varianti che operano in modo differente ma che hanno lo stesso scopo, possiamo vederele più o meno così (te la faccio breve, se vuoi una spiegazione dettagliata vai [qui](link alla spiegazione dettagliata.md)):\
 
 ![Immagine illustrativa](https://github.com/Dicast3/Veluntra/blob/main/Assets/Versioni.png)
