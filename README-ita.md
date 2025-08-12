@@ -26,7 +26,7 @@ per favore, passa al capitolo della variante corretta in base a quella che hai s
 
 * [Veluntra I](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md#veluntra-i)
 * [Veluntra V](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md#veluntra-v)
-*m[Veluntra X](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md#veluntra-x)
+* [Veluntra X](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md#veluntra-x)
 
 ---
 
