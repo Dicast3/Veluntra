@@ -80,5 +80,6 @@ download_dir = Path.home() / "Downloads" / "◼◼◼"
 Per utilizzare Veluntra ti basta cambiare la cartella in cui si trova lo script che hai scaricato (`ls` e `cd` sono i tuoi migliori amici)
 > [!NOTE]
 > puoi anche provare a scrivere `cd "`, trascinare la cartella in cui si trova lo script e chiudere con `"`
+
 e aprire il terminale e scrivere `python Veluntra.py` oppure `python3 Veluntra.py`
 
