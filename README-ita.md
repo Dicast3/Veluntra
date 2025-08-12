@@ -80,7 +80,7 @@ Per questa variante abbiamo bisogno di installare e modificare le solite cose ch
 
 Fatte tutte le modifiche come indicato per Veluntra I, adesso possiamo ultimare gli ultimi dettagli:
 * Scaricare la versione corretta per il tuo computer di [edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH)
-* Modificare la variabile `service `: al posto di `C:\Users\⬤⬤⬤\edgedriver_win64\msedgedriver.exe` ci va messo il percorso preciso per trovare i driver.
+* Modificare la variabile `service`: al posto di `C:\Users\⬤⬤⬤\edgedriver_win64\msedgedriver.exe` ci va messo il percorso preciso per trovare i driver.
 
 ### Veluntra X
 
