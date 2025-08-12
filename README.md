@@ -1,5 +1,5 @@
 # Veluntra
-The spell that cuts (from a site and pastes to a folder on your computer)\
+The spell that cuts <sub> <sub> (from a site and pastes to a folder on your computer) </sub> </sub>\
 <sub> [Clicca qui per la versione in italiano](https://github.com/Dicast3/Veluntra/blob/main/README-ita.md) </sub>
 
 ## bureaucratic stuff (boooring)
