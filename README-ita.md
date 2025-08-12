@@ -1,5 +1,5 @@
 # Veluntra
-La magia che taglia _(da un sito e incolla su una cartella nel tuo computer)_\
+La magia che taglia _(le foto da un sito e incolla su una cartella nel tuo computer)_\
 <sub> [Click here for the english version](https://github.com/Dicast3/Veluntra/blob/main/README.md) </sub>
 
 ## Roba burocratica (noiaaaa)
