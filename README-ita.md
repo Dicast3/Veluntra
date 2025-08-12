@@ -26,7 +26,7 @@ Mi dispiace, questa roba non è plug and play ed è un po sbatti, ma ne vale la 
 > <sub> Altra cosa, me ne stavo quasi per dimenticare, sto scrivendo pensando di parlare con qualcuno che utilizza come sistema operativo windows, in caso il tuo sistema operativo fosse differente alcune parti dello script vanno riadattare (principalmente come vengono trovati i file e i vari percorsi) </sub>\
 
 Prima di tutto bisogna scegliere quale _variante_ di Veluntra vogliamo utilizzare per svolgere il nostro _***esperimento didattico***_, nel dubbio ti consiglio di dirigerti [qui](https://github.com/Dicast3/Veluntra/tree/main/Code) e scaricare tutto il contenuto di questa cartella.\
-Ho vomitato 3 varianti che operano in modo differente ma che hanno lo stesso scopo, possiamo vederele più o meno così (te la faccio breve, se vuoi una spiegazione dettagliata vai [qui](https://github.com/Dicast3/Veluntra/blob/main/Assets/spiegone-ita.md)):\
+Ho vomitato 3 varianti che operano in modo differente ma che hanno lo stesso scopo, possiamo vederele più o meno così (te la faccio breve, se vuoi una spiegazione dettagliata vai [qui](https://github.com/Dicast3/Veluntra/blob/main/Assets/spiegone-ita.md)):
 
 ![Immagine illustrativa](https://github.com/Dicast3/Veluntra/blob/main/Assets/Versioni.png)
 
