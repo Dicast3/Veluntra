@@ -12,4 +12,4 @@ Se non avessi voglia di leggere, ti riassumo tutto in poche parole:
 2. Questo progetto è per scopi didattici, se non dovesse essere utilizzato per questo mi arrabbierò tantissimo
 
 ## Setup
-Mi dispiace, questa roba non è plug and play è un po sbatti ma ne vale la pena se ==ne hai realmente bisogno==.
+Mi dispiace, questa roba non è plug and play è un po sbatti ma ne vale la pena se ===ne hai realmente bisogno===.
