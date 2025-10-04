@@ -24,13 +24,13 @@ uso base di strumenti sviluppatore
 HTML/CSS (selector)
 
 ## Varianti
-Veluntra I: usa requests + beautifulsoup4. Devi impostare url, elementi (CSS selector), download_dir.
+Veluntra I: usa ```requests``` + ```beautifulsoup4```.
 
-Veluntra V: come I + necessita di EdgeDriver (impostare percorso service).
+Veluntra V: come I + necessita di ```EdgeDriver```.
 
-Veluntra X: usa playwright (pip install playwright + playwright install), impostare url e download_dir.
+Veluntra X: usa ```playwright```.
 
-Installazioni comuni: pip install requests beautifulsoup4 (o pip3); per X: pip install playwright e playwright install. Per V: scarica msedgedriver e punta il percorso nel codice.
+Installazioni comuni: ```pip install requests beautifulsoup4```.
 
 ## Modifiche obbligatorie nel codice
 url
