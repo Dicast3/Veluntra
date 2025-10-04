@@ -23,7 +23,7 @@ uso base di strumenti sviluppatore
 
 HTML/CSS (selector)
 
-## Varianti (scegli una)
+## Varianti
 Veluntra I: usa requests + beautifulsoup4. Devi impostare url, elementi (CSS selector), download_dir.
 
 Veluntra V: come I + necessita di EdgeDriver (impostare percorso service).
