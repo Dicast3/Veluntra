@@ -11,6 +11,10 @@ Script che scarica immagini da una pagina web (la versione ```X``` supporta anch
 ## Roba noiosa
 Nella repo ci sono il mio [disclaimer di reponsabilità](https://github.com/Dicast3/Veluntra/blob/main/Disclaimer.md) e la [licenza](https://github.com/Dicast3/Veluntra/blob/main/LICENSE).
 
+Se non avessi voglia di leggere, ti riassumo tutto in poche parole:
+1. Non sono responsabile di ciò che fai e quello che succede con questo strumento (sono fatti tuoi, non mi cercare se il gatto è stato mangiato dal computer)
+2. Questo progetto è per scopi didattici, se non dovesse essere utilizzato per questo mi arrabbierò tantissimo
+
 ## Requisiti
 * PC (OS: Windows)
 * Microsoft Edge
