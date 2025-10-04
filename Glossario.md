@@ -12,3 +12,6 @@ I vantaggi sono:
 * Pagina più veloce
 * Minore consumo di dati
 * Migliore esperienza utente da mobile
+
+## Uso base di strumenti sviluppatore
+Qui probabilmente sono stato troppo melodrammatico, realisticamente l'unica cosa richiesta che tu sappia fare è saper prenere ```Fn``` + ```F12```
