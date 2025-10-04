@@ -15,6 +15,11 @@ Se non avessi voglia di leggere, ti riassumo tutto in poche parole:
 1. Non sono responsabile di ciò che fai e quello che succede con questo strumento (sono fatti tuoi, non mi cercare se il gatto è stato mangiato dal computer)
 2. Questo progetto è per scopi didattici, se non dovesse essere utilizzato per questo mi arrabbierò tantissimo
 
+## Casi d'uso
+Mettiamo caso tu abbia creato una tua pagina web con un sacco di immagini e per qualche motivo tu voglia provare a scaricarle. \
+Mettiamo caso che però hai fatto una pagina schifosa, perché a quanto pare ti sei dimenticato di inserire un pulsate per scaricare tutto il contenuto del sito. \
+Questo è il tool giusto per risolvere questa tua dimenticanza.
+
 ## Requisiti
 * PC (OS: Windows)
 * Microsoft Edge
