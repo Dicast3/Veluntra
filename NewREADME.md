@@ -1,7 +1,7 @@
 # Veluntra
 
 ## Cos’è?
-script che scarica immagini da una pagina web (la versione X supporta anche [lazy scrolling/loading](https://github.com/Dicast3/Veluntra/blob/main/Glossario.md#lazy-scrollingloading) e le salva in una cartella sul PC.
+script che scarica immagini da una pagina web (la ```[versione X](https://github.com/Dicast3/Veluntra/blob/main/Code/Veluntra%20X/Veluntra.py)``` supporta anche [lazy scrolling/loading](https://github.com/Dicast3/Veluntra/blob/main/Glossario.md#lazy-scrollingloading) e le salva in una cartella sul PC.
 
 > [!WARNING]  
 > scegli nomi di cartelle non esistenti per evitare di sovrascrivere dati importanti
