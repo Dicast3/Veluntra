@@ -5,6 +5,7 @@ script che scarica immagini da una pagina web e le salva in una cartella sul PC.
 
 > [!WARNING]  
 > scegli nomi di cartelle non esistenti per evitare di sovrascrivere dati importanti
+> 
 > il progetto NON è plug-and-play! serve qualche adattamento
 
 ## Roba noiosa
