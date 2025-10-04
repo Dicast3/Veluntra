@@ -36,6 +36,6 @@ Installazioni comuni: ```pip install requests beautifulsoup4```.
 ## Utilizzo
 
 > [!NOTE]  
-> Per non appesantire il readme, ho scelto di creare una [sezione separata](https://github.com/Dicast3/Veluntra/blob/main/Tutorial.md) che dovrebbe guidare l'utente passo passo.
+> Per non appesantire questo readme, ho scelto di creare una [sezione separata](https://github.com/Dicast3/Veluntra/blob/main/Tutorial.md) che dovrebbe guidare l'utente passo passo.
 
 Posizionati nella cartella dello script con il terminale e lancia ```python Veluntra.py```.
