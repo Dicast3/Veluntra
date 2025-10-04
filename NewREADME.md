@@ -1,8 +1,10 @@
 # Veluntra
 
-Cos’è: script che scarica immagini da una pagina web e le salva in una cartella sul PC.
+## Cos’è?
+script che scarica immagini da una pagina web e le salva in una cartella sul PC.
 
-License / Disclaimer: linkati nel repo (leggi se vuoi responsabilità e limiti).
+## Roba noiosa
+linkati nel repo ci sono il mio disclaimer di reponsabilità e la licenza.
 
 Requisiti: PC (Windows presumibile), Microsoft Edge, Python.
 
