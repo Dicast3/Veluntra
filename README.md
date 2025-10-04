@@ -9,7 +9,7 @@ Script che scarica immagini da una pagina web (la versione ```X``` supporta anch
 > Il progetto NON è plug-and-play!
 
 ## Roba noiosa
-Linkati nel repo ci sono il mio [disclaimer di reponsabilità](https://github.com/Dicast3/Veluntra/blob/main/Disclaimer.md) e la [licenza](https://github.com/Dicast3/Veluntra/blob/main/LICENSE).
+Nella repo ci sono il mio [disclaimer di reponsabilità](https://github.com/Dicast3/Veluntra/blob/main/Disclaimer.md) e la [licenza](https://github.com/Dicast3/Veluntra/blob/main/LICENSE).
 
 ## Requisiti
 * PC (OS: Windows)
