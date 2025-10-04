@@ -1,6 +1,6 @@
-Cos’è: script che scarica immagini da una pagina web e le salva in una cartella sul PC.
+# Veluntra
 
-Scopo: didattico. L’autore non si assume responsabilità per l’uso.
+Cos’è: script che scarica immagini da una pagina web e le salva in una cartella sul PC.
 
 License / Disclaimer: linkati nel repo (leggi se vuoi responsabilità e limiti).
 
