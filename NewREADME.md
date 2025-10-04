@@ -12,11 +12,9 @@ script che scarica immagini da una pagina web e le salva in una cartella sul PC.
 linkati nel repo ci sono il mio disclaimer di reponsabilità e la licenza.
 
 ## Requisiti
-PC (OS: Windows)
-
-Microsoft Edge
-
-Python
+* PC (OS: Windows)
+* Microsoft Edge
+* [Python](https://www.python.org/downloads/)
 
 ## Conoscenze richieste
 uso base di strumenti sviluppatore
