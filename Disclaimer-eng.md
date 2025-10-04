@@ -1,4 +1,6 @@
-Disclaimer
+# Disclaimer
+
+> <sub> Questa è la versione inglese del disclaimer di responsabilità, qui c'è la versione in italiano [Versione Italiana](https://github.com/Dicast3/Veluntra/blob/main/Disclaimer-eng.md) </sub>
 
 This project/tool was developed exclusively for educational and informational purposes. The author does not in any way intend to promote or encourage the use of the project for illegal or harmful activities.
 
