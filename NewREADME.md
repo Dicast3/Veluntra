@@ -21,9 +21,9 @@ linkati nel repo ci sono il mio [disclaimer di reponsabilità](https://github.co
 * HTML/CSS (selector)
 
 ## Varianti
-* Veluntra I: usa ```requests``` + ```beautifulsoup4```.
-* Veluntra V: come I + necessita di ```EdgeDriver```.
-* Veluntra X: usa ```playwright```.
+* [Veluntra I](https://github.com/Dicast3/Veluntra/blob/main/Code/Veluntra%20I/Veluntra.py): usa ```requests``` + ```beautifulsoup4```.
+* [Veluntra V](https://github.com/Dicast3/Veluntra/blob/main/Code/Veluntra%20V/Veluntra.py): come I + necessita di ```EdgeDriver```.
+* [Veluntra X](https://github.com/Dicast3/Veluntra/blob/main/Code/Veluntra%20X/Veluntra.py): usa ```playwright```.
 
 Installazioni comuni: ```pip install requests beautifulsoup4```.
 
