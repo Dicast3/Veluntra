@@ -33,4 +33,5 @@ Installazioni comuni: ```pip install requests beautifulsoup4```.
 * download_dir
 * (service per variante V).
 
-Avvio: posizionati nella cartella dello script e lancia python Veluntra.py (o python3 Veluntra.py).
+## Utilizzo
+posizionati nella cartella dello script con il terminale e lancia ```python Veluntra.py```.
