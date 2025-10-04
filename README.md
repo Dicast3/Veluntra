@@ -17,7 +17,7 @@ Nella repo ci sono il mio [disclaimer di reponsabilità](https://github.com/Dica
 * [Python](https://www.python.org/downloads/)
 
 ## Conoscenze richieste
-* [uso base di strumenti sviluppatore] (https://github.com/Dicast3/Veluntra/blob/main/Glossario.md#uso-base-di-strumenti-sviluppatore)
+* [uso base di strumenti sviluppatore](https://github.com/Dicast3/Veluntra/blob/main/Glossario.md#uso-base-di-strumenti-sviluppatore)
 * HTML/CSS (selector)
 
 ## Varianti
