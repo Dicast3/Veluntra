@@ -1,7 +1,7 @@
 # Veluntra
 
 ## Cos’è?
-script che scarica immagini da una pagina web e le salva in una cartella sul PC.
+script che scarica immagini da una pagina web con lazy scrolling e le salva in una cartella sul PC.
 
 > [!WARNING]  
 > scegli nomi di cartelle non esistenti per evitare di sovrascrivere dati importanti
