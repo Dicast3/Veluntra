@@ -34,8 +34,11 @@ Installazioni comuni: pip install requests beautifulsoup4 (o pip3); per X: pip i
 
 ## Modifiche obbligatorie nel codice
 url
+
 elementi (selector)
+
 download_dir
+
 (service per variante V).
 
 Avvio: posizionati nella cartella dello script e lancia python Veluntra.py (o python3 Veluntra.py).
