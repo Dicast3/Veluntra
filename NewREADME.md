@@ -30,6 +30,4 @@ download_dir
 
 Avvio: posizionati nella cartella dello script e lancia python Veluntra.py (o python3 Veluntra.py).
 
-Avvertenza rapida: scegli nomi di cartelle non esistenti per evitare sovrascritture; progetto NON è plug-and-play, serve qualche adattamento.
-
-Se vuoi, te lo sintetizzo ancora di più in 3 parole: configura, punta, lancia.
+Avvertenza rapida: scegli nomi di cartelle non esistenti per evitare sovrascritture; progetto NON è plug-and-play, serve qualche adattamento
