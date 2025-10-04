@@ -1,12 +1,12 @@
 # Veluntra
 
 ## Cos’è?
-script che scarica immagini da una pagina web (la versione ```X``` supporta anche [lazy scrolling/loading](https://github.com/Dicast3/Veluntra/blob/main/Glossario.md#lazy-scrollingloading) e le salva in una cartella sul PC.
+Script che scarica immagini da una pagina web (la versione ```X``` supporta anche [lazy scrolling/loading](https://github.com/Dicast3/Veluntra/blob/main/Glossario.md#lazy-scrollingloading) e le salva in una cartella sul PC.
 
 > [!WARNING]  
-> scegli nomi di cartelle non esistenti per evitare di sovrascrivere dati importanti
+> Scegli nomi di cartelle non esistenti per evitare di sovrascrivere dati importanti
 > 
-> il progetto NON è plug-and-play! serve qualche adattamento
+> Il progetto NON è plug-and-play!
 
 ## Roba noiosa
 linkati nel repo ci sono il mio [disclaimer di reponsabilità](https://github.com/Dicast3/Veluntra/blob/main/Disclaimer.md) e la [licenza](https://github.com/Dicast3/Veluntra/blob/main/LICENSE).
