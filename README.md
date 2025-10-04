@@ -28,8 +28,6 @@ Mi dispiace, questa roba non è plug and play ed è un po sbatti, ma ne vale la 
 Prima di tutto bisogna scegliere quale _variante_ di Veluntra vogliamo utilizzare per svolgere il nostro _***esperimento didattico***_, nel dubbio ti consiglio di dirigerti [qui](https://github.com/Dicast3/Veluntra/tree/main/Code) e scaricare tutto il contenuto di questa cartella.\
 Ho vomitato 3 varianti che operano in modo differente ma che hanno lo stesso scopo, possiamo vederele più o meno così (te la faccio breve, se vuoi una spiegazione dettagliata vai [qui](https://github.com/Dicast3/Veluntra/blob/main/Assets/spiegone-ita.md)):
 
-![Immagine illustrativa](https://github.com/Dicast3/Veluntra/blob/main/Assets/Versioni.png)
-
 Una volta che abbiamo scelto la variante, tenetevi forte, avremo bisogno di altra roba che installeremo a seconda di cosa abbiamo scelto.\
 Per favore, passa al capitolo della variante corretta in base a quella che hai scelto:
 
