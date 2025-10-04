@@ -18,6 +18,7 @@ Python
 
 ## Conoscenze richieste
 uso base di strumenti sviluppatore
+
 HTML/CSS (selector)
 
 ## Varianti (scegli una)
