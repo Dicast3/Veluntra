@@ -14,4 +14,4 @@ I vantaggi sono:
 * Migliore esperienza utente da mobile
 
 ## Uso base di strumenti sviluppatore
-Qui probabilmente sono stato troppo melodrammatico, realisticamente l'unica cosa richiesta che tu sappia fare è saper prenere ```Fn``` + ```F12```
+Qui probabilmente sono stato troppo melodrammatico, realisticamente l'unica cosa richiesta che tu sappia fare è saper premere ```Fn``` + ```F12``` per aprire il menù.
