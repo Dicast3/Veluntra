@@ -8,10 +8,6 @@ Ho vomitato 3 varianti che operano in modo differente ma che hanno lo stesso sco
 
 Una volta che abbiamo scelto la variante, tenetevi forte, avremo bisogno di altra roba che installeremo a seconda di cosa abbiamo scelto.
 
-* Veluntra I
-* Veluntra V
-* Veluntra X
-
 ---
 ---
 
