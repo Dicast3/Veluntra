@@ -3,6 +3,10 @@
 ## Cos’è?
 script che scarica immagini da una pagina web e le salva in una cartella sul PC.
 
+> [!WARNING]  
+> scegli nomi di cartelle non esistenti per evitare di sovrascrivere dati importanti
+> il progetto NON è plug-and-play! serve qualche adattamento
+
 ## Roba noiosa
 linkati nel repo ci sono il mio disclaimer di reponsabilità e la licenza.
 
@@ -29,5 +33,3 @@ download_dir
 (service per variante V).
 
 Avvio: posizionati nella cartella dello script e lancia python Veluntra.py (o python3 Veluntra.py).
-
-Avvertenza rapida: scegli nomi di cartelle non esistenti per evitare sovrascritture; progetto NON è plug-and-play, serve qualche adattamento
